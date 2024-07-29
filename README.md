@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# Finance App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um aplicativo de gerenciamento de finanças pessoais, projetado para ajudar os usuários a controlar seus gastos e orçamentos de forma eficiente. O aplicativo apresenta uma interface fácil de usar, com gráficos e visualizações para ajudar a compreender melhor as finanças.
 
-## Get started
+![Finance App Screenshot](./assets/images/finance-app-screenshot.png)
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+### 📊 Características
 
-2. Start the app
+* Visualização de gastos por categoria (Housing, Food, Saving, Miscellaneous)
+* Gráfico de pizza para mostrar a distribuição dos gastos
+* Listagem detalhada de cada gasto, incluindo o nome, valor e porcentagem do orçamento
+* Possibilidade de adicionar novos gastos
+* Visualização do total dos gastos e do orçamento
 
-   ```bash
-    npx expo start
-   ```
+### 🛠️ Tecnologias Utilizadas
 
-In the output, you'll find options to open the app in a
+* React Native para o desenvolvimento do aplicativo
+* Expo para a gestão de rotas e navegação
+* React-native-gifted-charts para a criação de gráficos
+* JSON para armazenamento de dados
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 📥 Instalação
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Para instalar o aplicativo, siga os seguintes passos:
 
-## Get a fresh project
+1. Clone o repositório do GitHub
+2. Execute `npm install` ou `yarn install` para instalar as dependências
+3. Execute `expo start` para iniciar o aplicativo
 
-When you're ready, run:
+### 🤝 Contribuição
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Se você deseja contribuir para o desenvolvimento do aplicativo, por favor, faça um fork do repositório e envie um pull request com suas alterações.
