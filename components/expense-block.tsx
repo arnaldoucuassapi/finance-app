@@ -85,7 +85,7 @@ const ExpenseBlock = ({expenseList}: {expenseList: ExpenseType[]}) => {
     )
   }
 
-  const staticItem = [{name: "Add Item"}];
+  const staticItem = [{id: "",name: "Add Item",amount: "",percentage: ""}];
 
   return (
     <View style={{paddingVertical: 20}}>
