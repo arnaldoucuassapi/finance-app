@@ -2,7 +2,8 @@
 
 Este é um aplicativo de gerenciamento de finanças pessoais, projetado para ajudar os usuários a controlar seus gastos e orçamentos de forma eficiente. O aplicativo apresenta uma interface fácil de usar, com gráficos e visualizações para ajudar a compreender melhor as finanças.
 
-![Finance App Screenshot](./assets/images/finance-app-screenshot.png)
+![Finance App Screenshot 1](./assets/images/finance-app-screenshot-1.png)
+![Finance App Screenshot 2](./assets/images/finance-app-screenshot-2.png)
 
 
 ### 📊 Características
